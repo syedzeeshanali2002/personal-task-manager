@@ -6,10 +6,10 @@ A full-stack mobile task manager built with **React Native**, **Node.js + Expres
 
 ## Features
 
-- 🔐 **Firebase Authentication** – Email/password signup & login, session persistence, secure logout
-- ✅ **Personal Tasks** – Create, view, mark complete/pending, and delete tasks
-- 🔒 **Backend Token Verification** – Every API request is validated with Firebase Admin SDK
-- 📱 **React Native UI** – Clean screens with loading states, error handling, pull-to-refresh
+- **Firebase Authentication** – Email/password signup & login, session persistence, secure logout
+- **Personal Tasks** – Create, view, mark complete/pending, and delete tasks
+- **Backend Token Verification** – Every API request is validated with Firebase Admin SDK
+- **React Native UI** – Clean screens with loading states, error handling, pull-to-refresh
 
 ---
 
